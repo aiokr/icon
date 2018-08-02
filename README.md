@@ -2,7 +2,7 @@
 
 The color icons for system, app, or project.
 
-| icons                              |                            |                          |
+| icons                              | icons                      | icons                    |
 | ---------------------------------- | -------------------------- | ------------------------ |
 | ![](/snapseed.svg)                 | ![](/ssapi_screenshot.svg) | ![](/settings.svg)       |
 | ![](/mail.svg)                     | ![](/notes.svg)            | ![](/todo.svg)           |
