@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 635.76 474.53">
+    <defs>
+        <style>.cls-1{fill:#f7931e;}.cls-2{fill:#fbb03b;}.cls-3{fill:#fff;}</style>
+    </defs>
+    <title>weather_cloudy_irregular</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_1-2" data-name="图层 1">
+            <rect class="cls-1" x="304.25" y="56.88" width="274.63" height="274.63" transform="translate(-7.99 369.11) rotate(-45)"/>
+            <rect class="cls-1" x="304.25" y="56.88" width="274.63" height="274.63"/>
+            <circle class="cls-2" cx="441.57" cy="194.2" r="123.58"/>
+            <circle class="cls-3" cx="210.87" cy="263.66" r="210.87"/>
+            <circle class="cls-3" cx="501.43" cy="340.21" r="134.33"/>
+            <rect class="cls-3" x="210.87" y="361.97" width="290.56" height="112.56"/>
+        </g>
+    </g>
+</svg>

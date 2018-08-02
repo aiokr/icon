@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<title>weather_sunny</title>
+<svg t="1533209813707" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" 
+    xmlns="http://www.w3.org/2000/svg" p-id="710" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+    <defs>
+        <style type="text/css"></style>
+    </defs>
+    <path d="M0.005793 512.001086L512.004706 0.002172 1024.002172 512.001086l-511.99819 511.998914z" fill="#F7931E" p-id="711"></path>
+    <path d="M149.963294 149.963294h724.075584v724.075584h-724.075584z" fill="#F7931E" p-id="712"></path>
+    <path d="M512.001086 512.001086m-325.834013 0a325.834013 325.834013 0 1 0 651.668026 0 325.834013 325.834013 0 1 0-651.668026 0Z" fill="#FBB03B" p-id="713"></path>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598.23 598.23">
+    <defs>
+        <style>.cls-1{fill:#666;}.cls-2{fill:#b3b3b3;}</style>
+    </defs>
+    <title>settings</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_1-2" data-name="图层 1">
+            <rect class="cls-1" x="87.61" y="87.61" width="423.01" height="423.01" transform="translate(-67.22 87.61) rotate(-15)"/>
+            <rect class="cls-1" x="87.61" y="87.61" width="423.01" height="423.01" transform="translate(-123.9 299.12) rotate(-45)"/>
+            <rect class="cls-1" x="87.61" y="87.61" width="423.01" height="423.01" transform="translate(-67.22 510.62) rotate(-75)"/>
+            <circle class="cls-2" cx="299.12" cy="299.12" r="211.51"/>
+            <circle class="cls-1" cx="299.12" cy="299.12" r="156.99"/>
+            <circle class="cls-2" cx="299.12" cy="299.12" r="47.99"/>
+        </g>
+    </g>
+</svg>

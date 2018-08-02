@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+    <defs>
+        <style>.cls-1{fill:#0188fb;}.cls-2{fill:#f7931e;}.cls-3{fill:#fbb03b;}.cls-4{fill:#fff;}</style>
+    </defs>
+    <title>weather_cloudy</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_1-2" data-name="图层 1">
+            <rect class="cls-1" width="1000" height="1000" rx="50" ry="50"/>
+            <rect class="cls-2" x="486.37" y="293.21" width="274.63" height="274.63" transform="translate(-121.76 567.11) rotate(-45)"/>
+            <rect class="cls-2" x="486.37" y="293.21" width="274.63" height="274.63"/>
+            <circle class="cls-3" cx="623.69" cy="430.53" r="123.58"/>
+            <circle class="cls-4" cx="392.99" cy="500" r="210.87"/>
+            <circle class="cls-4" cx="683.55" cy="576.54" r="134.33"/>
+            <rect class="cls-4" x="392.99" y="598.31" width="290.56" height="112.56"/>
+        </g>
+    </g>
+</svg>

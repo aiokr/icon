@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{fill:#ff6445;}.cls-3{fill:#ffcdc5;}</style>
+    </defs>
+    <title>notes</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_1-2" data-name="图层 1">
+            <rect class="cls-1" width="1000" height="1000"/>
+            <path class="cls-2" d="M50,0H950a50,50,0,0,1,50,50V245.21a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V50A50,50,0,0,1,50,0Z"/>
+            <path class="cls-3" d="M0,245.21H1000a0,0,0,0,1,0,0V950a50,50,0,0,1-50,50H50A50,50,0,0,1,0,950V245.21a0,0,0,0,1,0,0Z"/>
+            <rect class="cls-2" x="93.01" y="844.58" width="828.74" height="52.5"/>
+            <rect class="cls-2" x="93.01" y="729.51" width="625.38" height="52.5"/>
+            <rect class="cls-2" x="93.01" y="614.44" width="828.74" height="52.5"/>
+            <rect class="cls-2" x="93.01" y="494.69" width="343.49" height="52.5"/>
+            <rect class="cls-2" x="93.01" y="384.3" width="828.74" height="52.5"/>
+        </g>
+    </g>
+</svg>
